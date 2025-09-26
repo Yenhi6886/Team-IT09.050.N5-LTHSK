@@ -1,0 +1,77 @@
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlykhachhang.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlydichvu.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlynhansu.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlychitiethoadon.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Timkiem.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\stdole.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Frmthongkehoadondathanhtoan.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CopyComplete
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Frmbaocaoquanlythuephong.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Menutrangchu.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlydatphong.resources
+C:\Users\TSC\source\repos\Quanlykhachsan\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlythongtinphong.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe.config
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\Quanlykhachsan.exe
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\Quanlykhachsan.pdb
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.Shared.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\ShockwaveFlashObjects.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\stdole.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.AssemblyReference.cache
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Frmbaocaoquanlythuephong.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Frmthongkehoadondathanhtoan.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Menutrangchu.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlychitiethoadon.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlydichvu.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlykhachhang.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Properties.Resources.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlynhansu.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlydatphong.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Quanlythongtinphong.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.Timkiem.resources
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.GenerateResource.cache
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.csproj.CoreCompileInputs.cache
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykh.1261CB27.Up2Date
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.exe
+D:\TL Ehou\bài mới\Nhóm Khuê\IT09\Quanlykhachsan\obj\Debug\Quanlykhachsan.pdb
